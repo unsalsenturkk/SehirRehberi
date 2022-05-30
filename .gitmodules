@@ -1,0 +1,6 @@
+[submodule "SehirRehberi.API"]
+	path = SehirRehberi.API
+	url = https://github.com/unsalsenturkk/SehirRehberi.API
+[submodule "SehirRehberi.SPA"]
+	path = SehirRehberi.SPA
+	url = https://github.com/unsalsenturkk/SehirRehberi.SPA
